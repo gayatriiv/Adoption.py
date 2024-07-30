@@ -1,2 +1,2 @@
-# Adoption-App
+# Adoption.py
 python // tkinter // mysql

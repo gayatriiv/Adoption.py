@@ -23,9 +23,9 @@ A GUI-based application designed to assist prospective parents in exploring adop
    - Update the database credentials in the Python code.
 
 3. Run the App:
-   bash
-   python Adoption.py
-   
+      ```bash
+      python Aoption.py
+     ```
 
 ## Future Enhancements
 - Notifications for new profiles.
